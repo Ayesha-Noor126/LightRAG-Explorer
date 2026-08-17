@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Backend runtime data
+backend/.env
+backend/.env.example 
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/chroma_db/*
+!backend/data/chroma_db/.gitkeep
+backend/document_registry.json
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+
+.env
+*.env
+
+
+
+*.timestamp-*.mjs
