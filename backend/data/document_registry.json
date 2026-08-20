@@ -1,0 +1,14 @@
+{
+  "a7453b6e-51b1-403c-9662-bea3b4fdc012": {
+    "doc_id": "a7453b6e-51b1-403c-9662-bea3b4fdc012",
+    "filename": "Attention Is All You Need.docx",
+    "file_type": ".docx",
+    "size_bytes": 19955,
+    "num_chunks": 21,
+    "uploaded_at": "2026-08-11T08:12:32.776253Z",
+    "status": "indexed",
+    "error_message": null,
+    "graphrag_status": "processing",
+    "graphrag_error_message": null
+  }
+}
