@@ -16,6 +16,26 @@ A full-stack research platform that implements, compares, and evaluates two fund
 
 ---
 
+## Screenshots
+
+<!-- Add your screenshots to the screenshots/ folder and they will appear here -->
+
+| Simple RAG Query | LightRAG Graph View |
+|:---:|:---:|
+| ![Simple RAG Query](screenshots/simple_rag_query.png) | ![Graph View](screenshots/graph_view.png) |
+
+| Side-by-Side Comparison | Analytics Dashboard |
+|:---:|:---:|
+| ![Comparison View](screenshots/comparison_view.png) | ![Analytics Dashboard](screenshots/analytics_dashboard.png) |
+
+| Document Upload | Experiment Mode |
+|:---:|:---:|
+| ![Document Upload](screenshots/document_upload.png) | ![Experiment Mode](screenshots/experiment_mode.png) |
+
+> 📸 **To add screenshots:** Drop your `.png` / `.jpg` files into the `screenshots/` folder in this repo and name them as shown above. They will automatically appear in this table.
+
+---
+
 ## Project Statement
 
 RAG systems have become the standard way to ground large language model answers in private documents. The dominant approach — chunk the text, embed it, retrieve by cosine similarity, pass to an LLM — works well for direct lookup questions. But it has known limitations on questions that require reasoning across multiple entities, following chains of relationships, or synthesising information spread across many parts of a corpus.
