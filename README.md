@@ -18,21 +18,64 @@ A full-stack research platform that implements, compares, and evaluates two fund
 
 ## Screenshots
 
-<!-- Add your screenshots to the screenshots/ folder and they will appear here -->
+### Dashboard Overview
+![Dashboard Overview](screenshots/image.png)
 
-| Simple RAG Query | LightRAG Graph View |
+---
+
+### Simple RAG Pipeline
+
+| Query & Answer | Retrieved Chunks |
 |:---:|:---:|
-| ![Simple RAG Query](screenshots/simple_rag_query.png) | ![Graph View](screenshots/graph_view.png) |
+| ![Simple RAG — Query & Answer](screenshots/image%20copy.png) | ![Simple RAG — Retrieved Chunks](screenshots/image%20copy%202.png) |
 
-| Side-by-Side Comparison | Analytics Dashboard |
+| Chunk Detail View | |
 |:---:|:---:|
-| ![Comparison View](screenshots/comparison_view.png) | ![Analytics Dashboard](screenshots/analytics_dashboard.png) |
+| ![Simple RAG — Chunk Detail](screenshots/image%20copy%203.png) | |
 
-| Document Upload | Experiment Mode |
+---
+
+### LightRAG — All Four Query Modes
+
+| Hybrid Mode | Local Mode |
 |:---:|:---:|
-| ![Document Upload](screenshots/document_upload.png) | ![Experiment Mode](screenshots/experiment_mode.png) |
+| ![LightRAG Hybrid Mode](screenshots/image%20copy%204.png) | ![LightRAG Local Mode](screenshots/image%20copy%205.png) |
 
-> 📸 **To add screenshots:** Drop your `.png` / `.jpg` files into the `screenshots/` folder in this repo and name them as shown above. They will automatically appear in this table.
+| Global Mode | Naive Mode |
+|:---:|:---:|
+| ![LightRAG Global Mode](screenshots/image%20copy%206.png) | ![LightRAG Naive Mode](screenshots/image%20copy%207.png) |
+
+---
+
+### Side-by-Side Comparison
+
+| Sample Questions by Category | Simple RAG vs LightRAG Answers |
+|:---:|:---:|
+| ![Comparison — Sample Questions](screenshots/image%20copy%208.png) | ![Comparison — Side-by-Side Answers](screenshots/image%20copy%209.png) |
+
+| Latency Comparison | |
+|:---:|:---:|
+| ![Comparison — Latency Bar](screenshots/image%20copy%2010.png) | |
+
+---
+
+### Neo4j Knowledge Graph Visualizer
+
+| Graph Stats + Overview | Force-Directed Graph (Full) |
+|:---:|:---:|
+| ![Neo4j Graph — Stats](screenshots/image%20copy%2011.png) | ![Neo4j Graph — Full View](screenshots/image%20copy%2012.png) |
+
+---
+
+### Analytics & Experiments
+
+| Analytics Dashboard | Experiment Presets |
+|:---:|:---:|
+| ![Analytics Dashboard](screenshots/image%20copy%2013.png) | ![Experiment Mode — Presets](screenshots/image%20copy%2014.png) |
+
+| Snapshot History | |
+|:---:|:---:|
+| ![Experiment Mode — Snapshot History](screenshots/image%20copy%2015.png) | |
 
 ---
 
